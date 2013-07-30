@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MTGProxyMaker", "MTGProxyMaker.csproj", "{66F8FC10-C0D1-41B8-B0D7-022184C22A77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ANDREICSLIB", "..\..\ANDREICSLIB\SOURCE\ANDREICSLIB\ANDREICSLIB.csproj", "{469B8120-B6D8-48BD-97C4-AFAB63AEE304}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release With Debug|Any CPU = Release With Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66F8FC10-C0D1-41B8-B0D7-022184C22A77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66F8FC10-C0D1-41B8-B0D7-022184C22A77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66F8FC10-C0D1-41B8-B0D7-022184C22A77}.Release With Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{66F8FC10-C0D1-41B8-B0D7-022184C22A77}.Release With Debug|Any CPU.Build.0 = Release|Any CPU
+		{66F8FC10-C0D1-41B8-B0D7-022184C22A77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66F8FC10-C0D1-41B8-B0D7-022184C22A77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{469B8120-B6D8-48BD-97C4-AFAB63AEE304}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{469B8120-B6D8-48BD-97C4-AFAB63AEE304}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{469B8120-B6D8-48BD-97C4-AFAB63AEE304}.Release With Debug|Any CPU.ActiveCfg = Release With Debug|Any CPU
+		{469B8120-B6D8-48BD-97C4-AFAB63AEE304}.Release With Debug|Any CPU.Build.0 = Release With Debug|Any CPU
+		{469B8120-B6D8-48BD-97C4-AFAB63AEE304}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{469B8120-B6D8-48BD-97C4-AFAB63AEE304}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
