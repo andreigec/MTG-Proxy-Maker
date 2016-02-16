@@ -1,6 +1,6 @@
 MTG-Proxy-Maker
 ============
-MTG Proxy Maker scrapes details of magic the gathering cards from wizards.com, and saves them to a pdf for easy printing
+MTG Proxy Maker scrapes details of magic the gathering cards from the game from wizards.com, and saves them to a pdf for easy printing.
 
 Images
 ======
